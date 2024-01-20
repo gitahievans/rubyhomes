@@ -1,0 +1,15 @@
+current directory: /home/gitahievans/Desktop/Development/RentersHub/ruby-homes-api/vendor/bunle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+/home/gitahievans/.rbenv/versions/3.1.2/bin/ruby -I /home/gitahievans/.rbenv/versions/3.1.2/lib/ruby/3.1.0 -r ./siteconf20240120-107942-a51brw.rb extconf.rb
+creating Makefile
+
+current directory: /home/gitahievans/Desktop/Development/RentersHub/ruby-homes-api/vendor/bunle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= clean
+
+current directory: /home/gitahievans/Desktop/Development/RentersHub/ruby-homes-api/vendor/bunle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\=
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/gitahievans/Desktop/Development/RentersHub/ruby-homes-api/vendor/bunle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20240120-107942-vcl48/racc
